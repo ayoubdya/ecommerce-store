@@ -13,6 +13,10 @@ body,
     @apply border-dashed border border-red-700;
   }
 
+  .debug-inside {
+    @apply border border-dashed border-red-700 box-border;
+  }
+
   .debug-blue {
     @apply border-dashed border border-blue-700;
   }
